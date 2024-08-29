@@ -1,0 +1,2 @@
+# Aplicativo
+Digitaçao automatica
